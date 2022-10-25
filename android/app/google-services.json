@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659724064450",
+    "project_id": "ud-grosir",
+    "storage_bucket": "ud-grosir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659724064450:android:91ce791883b9c313270d5b",
+        "android_client_info": {
+          "package_name": "com.udgrosir.ud_grosir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659724064450-9591c6hciacpvl40rque4gg1d9pu5mue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEIXvfl5kyd2qOSCUpNJ7xi-pLYIsQr5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659724064450-9591c6hciacpvl40rque4gg1d9pu5mue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
